@@ -1,0 +1,12 @@
+{
+  "version_formato": 1,
+  "semana": "2026-W24",
+  "algoritmo": "sha256-merkle-v1",
+  "raiz_merkle": "37559302956dfbf0faa4045c5f564d6b726058497e11de3a5adf49e84789511f",
+  "instante": "2026-06-14T06:35:00.764771+00:00",
+  "hojas": [
+    "48df2efb5d770e829a4d418df208cc25310d32201392dfe5519f9240f82c6819",
+    "9981d4ce93cd55b3a929187ec6a495a1fada08349754a47ec1fed2bfa2d272b7",
+    "d8f309e0bec43aa6d61c991efa9554405e9a04b3fdf418db11a1d318b0993a78"
+  ]
+}
